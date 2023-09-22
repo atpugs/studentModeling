@@ -18,8 +18,8 @@ We use students' game trace logs and their written reflections to model their le
 ![Screenshot 2023-09-22 at 4 33 10 PM](https://github.com/atpugs/studentModeling/assets/31329834/d1129b74-3d25-49d8-b15b-5709f07e322c)
 
 
-To learn more about the project and experimental results, please check out our publications:
-Gupta, A., Carpenter, D., Min, W., Rowe, J. P., Azevedo, R., & Lester, J. C. (2021). Multimodal Multi-Task Stealth Assessment for Reflection-Enriched Game-Based Learning. In MAIED@ AIED (pp. 93-102). (https://ceur-ws.org/Vol-2902/paper9.pdf)
+To learn more about the project and experimental results, please check out our publications: <br>
+Gupta, A., Carpenter, D., Min, W., Rowe, J. P., Azevedo, R., & Lester, J. C. (2021). Multimodal Multi-Task Stealth Assessment for Reflection-Enriched Game-Based Learning. In MAIED@ AIED (pp. 93-102). (https://ceur-ws.org/Vol-2902/paper9.pdf) <br>
 Gupta, A., Carpenter, D., Min, W., Rowe, J., Azevedo, R., & Lester, J. (2022, October). Enhancing multimodal goal recognition in open-world games with natural language player reflections. In Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (Vol. 18, No. 1, pp. 37-44). (https://ojs.aaai.org/index.php/AIIDE/article/download/21945/21714)
 
 Due to confidentiality reasons, dataset is not uploaded in this repository. Please contact authors for more information. 
